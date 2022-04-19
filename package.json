@@ -9,5 +9,8 @@
         "build": "tsc",
         "run": "node dist/app.js",
         "dev": "tsc && node dist/app.js"
+    },
+    "dependencies": {
+        "@types/node": "^17.0.25"
     }
 }
